@@ -1,0 +1,6 @@
+Quick Start
+1) install_venv_py312.bat
+2) setup_env.bat  [جاهز مسبقًا]
+3) عدّل config.json لو حبيت تغير رابط الكتاجوري
+4) run_once_category.bat للتجربة
+5) run_loop_category.bat للتشغيل المستمر
